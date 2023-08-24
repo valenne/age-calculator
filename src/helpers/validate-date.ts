@@ -1,4 +1,4 @@
-import { DateProps } from '../app/page';
+import { DateProps } from '../types/types';
 
 export function validateDate(passDate: DateProps) {
 	const error: string = '';
